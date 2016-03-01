@@ -4,5 +4,5 @@ UPDATE
 Create a new branch is quick
 master
 DEV
-DEV1
+DEV2
 issue-101
